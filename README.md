@@ -1,5 +1,5 @@
 # Youtube-Video-Downloader
-
+Python project using Tkinter and Pytube. Allows easy video downloads from YouTube through a GUI. Seamlessly integrates Pytube for efficient video retrieval. User-friendly interface enhances the download experience.
 
 install following libraries in your specific environment
 
